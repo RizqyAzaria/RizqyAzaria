@@ -16,7 +16,7 @@ I'm a student who is still studying and wants to improve my skills.
 
 ### Languages and Tools
 
-![Languages](https://skillicons.dev/icons?i=php,py)
+![Languages](https://skillicons.dev/icons?i=php,py,cpp)
 ![Tools](https://skillicons.dev/icons?i=vscode,unity)
 <be>
 
