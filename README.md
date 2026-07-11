@@ -4,8 +4,8 @@
 **`Tech and Games Enthusiasts`**
 
 I'm a student who is still studying and wants to improve my skills.
-- 👨‍💻 I actively explore new technologies and refine my abilities step by step.
-- 🤍 I enjoy contributing to projects and sharing insights that can help others.
+- I actively explore new technologies and refine my abilities step by step.
+- I enjoy contributing to projects and sharing insights that can help others.
 
 <p>
     <a href="https://github.com/RizqyAzaria?tab=followers">
@@ -16,13 +16,14 @@ I'm a student who is still studying and wants to improve my skills.
 
 ### Languages and Tools
 
-![Languages](https://skillicons.dev/icons?i=php,py,cpp)
-![Tools](https://skillicons.dev/icons?i=vscode,unity)
+![Languages](https://skillicons.dev/icons?i=php,javascript,cpp,cs)
+![Tools](https://skillicons.dev/icons?i=vscode,unity,docker)
 <be>
 
-<!--
+
 ### GitHub Statistics
 
-<a href="https://github.com/RizqyAzaria"><img alt="GitHub Stats" src="https://github-readme-stats.RizqyAzaria.vercel.app/api?username=RizqyAzaria&line_height=20&show_icons=true&theme=dracula&hide_border=true"></a>
-<a href="https://github.com/RizqyAzaria"><img alt="Top Languages" src="https://github-readme-stats.RizqyAzaria.vercel.app/api/top-langs/?username=RizqyAzaria&layout=compact&theme=dracula&hide_border=true"></a>
--->
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RizqyAzaria&show_icons=true&theme=dark&hide_border=true&card_width=300" height=170/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RizqyAzaria&layout=compact&theme=dark&hide_border=true&card_width=220" height=170/>
+</p>
