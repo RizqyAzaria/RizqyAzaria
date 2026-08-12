@@ -1,4 +1,5 @@
-# Rizqy Azaria P
+# RizqyAz
+
 
 
 **`Tech and Games Enthusiasts`**
@@ -20,10 +21,11 @@ I'm a student who is still studying and wants to improve my skills.
 ![Tools](https://skillicons.dev/icons?i=vscode,unity,docker)
 <be>
 
-
+<!-- //Inactive for a moment
 ### GitHub Statistics
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RizqyAzaria&show_icons=true&theme=dark&hide_border=true&card_width=300" height=170/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RizqyAzaria&layout=compact&theme=dark&hide_border=true&card_width=220" height=170/>
 </p>
+-->
